@@ -1,4 +1,6 @@
 # EDA-Hotel-Booking-Analysis
+![image](https://github.com/nawazsaj/EDA-Hotel-Booking-Analysis/assets/120582304/a83f9447-ff6d-404d-858a-41b495d6896d)
+
 
 **Business Objective**
 Main objective is to identify key trends and patterns in the data that can be used to improve business strategies in the hotel industry
